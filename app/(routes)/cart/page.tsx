@@ -40,6 +40,10 @@ const CartPage = () => {
             <Summary />
           </div>
         </div>
+
+        divider
+        h2 heading
+        
       </Container>
     </div>
   )
