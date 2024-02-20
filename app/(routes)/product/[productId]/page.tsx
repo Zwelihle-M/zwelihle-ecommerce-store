@@ -29,6 +29,8 @@ const ProductPage: React.FC<ProductPageProps> = async ({ params }) => {
 
             <div>
 
+              
+
                 <Gallery images={product.images} />
             </div>
 
